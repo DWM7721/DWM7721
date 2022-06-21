@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hello there 👋
 
+ - 🔭 I'm currently working on my portfolio website [danwm.xyz](https://danwm.xyz)
+ - 👀 I'm currently working for work as a web or mobile developer [linkedin.com/in/daniel-m17/](https://www.linkedin.com/in/daniel-m17/)
 <!--
 **DWM7721/DWM7721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
