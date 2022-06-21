@@ -14,6 +14,8 @@
 
 # 📚 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Script for Sorting Playlists on Youtube](https://danwm.xyz/2022/06/20/Script-for-sorting-playlists-on-YouTube/)
+- [Welcome](https://danwm.xyz/2022/06/16/welcome/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
