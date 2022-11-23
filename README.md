@@ -14,7 +14,9 @@
 
 # 📚 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Hamburger Menu Animations](https://blog.danwm.xyz/2022/11/15/Hamburger-Menu-Animations/)
+- [Script for Sorting Playlists on Youtube](https://blog.danwm.xyz/2022/06/20/Script-for-sorting-playlists-on-YouTube/)
+- [Welcome](https://blog.danwm.xyz/2022/06/16/welcome/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
