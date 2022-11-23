@@ -10,16 +10,16 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
  - 🔭 I'm currently working on my portfolio website [danwm.xyz](https://danwm.xyz)
- - 👀 I'm currently looking for work in software development or IT consulting [linkedin.com/in/daniel-m17/](https://www.linkedin.com/in/daniel-m17/)
+
 
 # 📚 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Script for Sorting Playlists on Youtube](https://danwm.xyz/2022/06/20/Script-for-sorting-playlists-on-YouTube/)
-- [Welcome](https://danwm.xyz/2022/06/16/welcome/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <!--
 **DWM7721/DWM7721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - 👀 I'm currently looking for work in software development or IT consulting [linkedin.com/in/daniel-m17/](https://www.linkedin.com/in/daniel-m17/)
 
 Here are some ideas to get you started:
 
