@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DWM7721&theme=dark&show_icons=true&icon_color=8d41c0&bg_color=15191d)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DWM7721&theme=dark&layout=compact&icon_color=8d41c0&bg_color=15191d)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DWM7721&theme=dark&show_icons=true&icon_color=8d41c0&bg_color=15191d)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DWM7721&theme=dark&layout=compact&icon_color=8d41c0&bg_color=15191d)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
